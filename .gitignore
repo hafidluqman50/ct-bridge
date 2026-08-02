@@ -1,0 +1,18 @@
+# Go
+/backend/bin/
+*.out
+/tmp/
+
+# Node / Next.js
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+.env
+.env.local
+
+# Secrets — never commit API keys
+*_key.txt
+gemini_key.txt
+
+# OS
+.DS_Store

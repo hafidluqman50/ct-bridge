@@ -1,0 +1,6 @@
+.env
+.env.example
+bin/
+cmd/visiontest/
+cmd/storagetest/
+*.md
